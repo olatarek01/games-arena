@@ -30,7 +30,7 @@ The project showcases games, tournaments, team members, and provides a contact s
 
 ---
 
-## Clone the repository:
-   ```bash
-   git clone https://olatarek01.github.io/games-arena/
+## 🌐 Live Demo
+
+https://olatarek01.github.io/games-arena/
 
